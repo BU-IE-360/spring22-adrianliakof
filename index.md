@@ -1,7 +1,6 @@
 # Welcome to My Github Page
 ## Homework 1
 
-
 [HTML](https://bu-ie-360.github.io/spring22-adrianliakof/files/Homework1.html)
 
 
