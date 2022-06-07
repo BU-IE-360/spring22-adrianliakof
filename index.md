@@ -21,6 +21,6 @@
 
 ## Project
 
-[Project Report PDF Download](https://github.com/BU-IE-360/spring22-adrianliakof/blob/gh-pages/files/IE%20360%20Project%20-%20Report.pdf)
+[Project Report PDF Download](https://github.com/BU-IE-360/spring22-adrianliakof/blob/gh-pages/files/Project_Report.pdf)
 
 [Project Report HTML](https://bu-ie-360.github.io/spring22-adrianliakof/files/Project_Report.html)
