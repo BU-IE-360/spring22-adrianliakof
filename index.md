@@ -19,4 +19,6 @@
 
 [Jupyter Notebook](https://github.com/BU-IE-360/spring22-adrianliakof/blob/gh-pages/files/Homework2.ipynb)
 
-## Homework 3
+## Project
+
+[Project Report](https://github.com/BU-IE-360/spring22-adrianliakof/blob/gh-pages/files/IE%20360%20Project%20-%20Report.pdf)
